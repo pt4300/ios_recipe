@@ -111,8 +111,8 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<br>* adding/searching recipe using api
-![add_recipe](./gifs/add_recipe.gif)</br>
+<br>* adding/searching recipe using api</br>
+![add_recipe](./gifs/add_recipe.gif)
 
 <br>* deleting recipe
 ![delete_recipe](./gifs/deletion.gif)</br>
