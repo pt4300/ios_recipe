@@ -111,17 +111,19 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* adding/searching recipe using api
-![add_recipe](./gifs/add_recipe.gif)
+<br>* adding/searching recipe using api
+![add_recipe](./gifs/add_recipe.gif)</br>
 
-* deleting recipe
-![delete_recipe](./gifs/deletion.gif)
+<br>* deleting recipe
+![delete_recipe](./gifs/deletion.gif)</br>
+<br>* creating recipe
+![create_recipe](./gifs/create_unique.gif)</br>
+<br>* editing recipe
+![edit_recipe](./gifs/edit_existing_recipe.gif)</br>
 
-* creating recipe
-![create_recipe](./gifs/create_unique.gif)
 
-* editing recipe
-![edit_recipe](./gifs/edit_existing_recipe.gif)
+
+
 
 
 
